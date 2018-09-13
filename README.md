@@ -1,4 +1,4 @@
-# Introduction to git
+# Introduction to git tutorial for Geophysical Sciences Bootcamp
 
 Notes taken during Introduction to Git tutorial.
 
